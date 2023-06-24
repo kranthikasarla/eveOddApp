@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 50px;
+  font-family: Roboto;
+}
+.count-type {
+  font-size: 30px;
+  font-weight: 400;
+  font-family: Roboto;
+  color: #334155;
+}
+.button {
+  border-radius: 10px;
+  border-width: 0px;
+  border-style: solid;
+  border-color: #0f172a;
+  height: 40px;
+  width: 100px;
+  font-size: 15px;
+  color: #0f172a;
+}
+.description {
+  color: #334155;
+  font-size: 13px;
+}
